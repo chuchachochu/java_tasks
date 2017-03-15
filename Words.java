@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by sf2016 on 15.03.2017.
+ * Java course. task #4
  */
 public class Words {
 
